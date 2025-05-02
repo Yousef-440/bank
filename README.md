@@ -12,4 +12,4 @@ A clean and responsive **bank landing page** built using **HTML**, **CSS**, and 
 - **HTML5** - **CSS3** - **JavaScript**
 
 
-🔗 Live Demo: [Click here]([https://username.github.io/repo-name/](https://yousef-440.github.io/bank/))
+🔗 Live Demo: https://yousef-440.github.io/bank/
